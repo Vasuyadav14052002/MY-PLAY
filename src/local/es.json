@@ -1,0 +1,50 @@
+{
+  "welcome": "Bienvenido",
+  "profile": "Mi perfil",
+  "tournament": "Mis Torneos",
+  "language": "Idioma",
+
+  "categoriesLevels": "Categorías y Niveles",
+  "all": "Todas",
+  "categoryMasculine": "Categoría Masculina",
+  "categoryFeminine": "Categoría Femenina",
+  "categoryMixed": "Categoría Mixto",
+
+  "selectTournament": "Selecciona el torneo",
+  "tournament2025": "Torneo Padel - 2025",
+
+  "groupTitle": "Grupo 1 – Primera Categoría",
+  "teams": "Equipos",
+  "pj": "PJ",
+  "pg": "PG",
+  "pp": "PP",
+  "pts": "PTS",
+  "saf": "SAF",
+  "sec": "SEC",
+  "difS": "DIF S",
+  "difs": "DIF S",
+  "jaf": "JAF",
+  "jec": "JEC",
+  "difJ": "DIF J",
+  "actions": "Acciones",
+
+  "previous": "Anterior",
+  "next": "Siguiente",
+
+  "groups": "Grupos",
+  "brackets": "Eliminatorias",
+
+  "profilePhoto": "Foto de perfil",
+  "basicInfo": "Información Básica",
+  "name": "Nombre",
+  "address": "Dirección",
+  "email": "Correo",
+  "phone": "Celular",
+
+  "currentTournament": "Torneo Actual",
+
+  "summary": "Resumen",
+  "generalData": "Datos Generales",
+
+  "tournamentHistory": "Histórico de Torneos Jugados"
+}
