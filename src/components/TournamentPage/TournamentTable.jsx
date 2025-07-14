@@ -11,7 +11,7 @@ const TournamentTable = () => {
 
     return (
         <div className="p-6 overflow-auto text-black bg-white rounded-lg">
-            <h3 className="mb-2 text-lg font-semibold">{t('groupTitle')}</h3>
+            <h3 className="flex justify-center mb-3 text-lg font-semibold ">{t('groupTitle')}</h3>
             <table className="w-full text-sm table-auto">
                 <thead className="text-black bg-white">
                     <tr>
@@ -32,7 +32,7 @@ const TournamentTable = () => {
                 <tbody>
                     {tableData.map((row, index) => (
                         <tr key={index} className="text-center border-b shadow-sm border-gray-50">
-                            <td className="p-2">{row.teams}</td>
+                            <td className="p-2 ">{row.teams}</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>

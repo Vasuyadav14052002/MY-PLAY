@@ -49,5 +49,10 @@
   "summary": "Summary",
   "generalData": "General Data",
 
-  "tournamentHistory": "Tournament History"
+  "tournamentHistory": "Tournament History",
+  "myPlay": "My Play",
+  "profile": "My Profile",
+  "tournament": "My Tournaments",
+  "matches": "My Matches",
+  "tournaments": "Tournaments"
 }

@@ -46,5 +46,11 @@
   "summary": "Resumen",
   "generalData": "Datos Generales",
 
-  "tournamentHistory": "Histórico de Torneos Jugados"
+  "tournamentHistory": "Histórico de Torneos Jugados",
+
+    "myPlay": "My Play",
+  "profile": "Mi perfil",
+  "tournament": "Mis Torneos",
+  "matches": "Mis Partidos",
+  "tournaments": "Torneos"
 }
